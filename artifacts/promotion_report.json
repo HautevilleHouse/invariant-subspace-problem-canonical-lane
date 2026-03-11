@@ -1,0 +1,19 @@
+{
+  "extracted_source": "artifacts/constants_extracted.json",
+  "framework": "invariant_subspace_problem",
+  "generated_utc": "2026-03-11T23:22:43Z",
+  "promoted_constants": {
+    "eps_coh": 0.0,
+    "kappa_compact": 0.8038585209003215,
+    "kappa_operator": 1.0932,
+    "rho_rigidity": 1.077,
+    "sigma_spectral": 1.0750000000000002,
+    "subspace_transfer": 1.029422
+  },
+  "promoted_stitch": {
+    "sigma_star_can": 1.053
+  },
+  "registry_path": "artifacts/constants_registry.json",
+  "schema_version": "2026-03-05",
+  "stitch_path": "artifacts/stitch_constants.json"
+}

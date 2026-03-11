@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "The Invariant Subspace Problem via Operator-Spectral Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/invariant-subspace-problem-canonical-lane"
+url: "https://github.com/HautevilleHouse/invariant-subspace-problem-canonical-lane"
+keywords:
+  - invariant-subspace-problem
+  - operator-theory
+  - functional-analysis
+  - banach-spaces
+  - spectral-theory
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "The Invariant Subspace Problem via Operator-Spectral Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
