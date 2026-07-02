@@ -31,23 +31,23 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "3df6bf976be4556171779ede032286639b9c7f2ccb2435d84ed5dea8d54b700e"
+      "sha256": "58cdb0510bbb17faac52d0b529361ee6697245f890af175165beea9d9d04996a"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "62fe7c91997602cdab4d119852b170686a3235660770392dd7eb623a0ea43bf3"
+      "sha256": "a36860d964ff785ce180e3ad7b2c9956e694f7a24668b97ad3a1c398a3187bec"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "c06b29c172e16808f59ce020613e52ef5971dfba565901c3fcd1590955513d40"
+      "sha256": "a314f595f0317b92dcabc646c2258de81c4c8bcfe76e02487310de641ad0c2c0"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "566ed2b73b4c68e1d9fe03b3b0267daf6da90cde5f93617235dd1cdf1e72c9cb"
+      "sha256": "1574937680801fa803850f536bc8019af091e8d8af072aec73613b4e413f4874"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "650a00a8afea44906f94a338d0e7b6e33fcc01a11c9a8528ba64da1131e80f3a"
+      "sha256": "60a587cd8e85dabcf07e0d0da9ec9b8dc37cb459a0b77e11505eefc98aa32e66"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -59,7 +59,7 @@
     },
     {
       "path": "paper/INVARIANT_SUBSPACE_PROBLEM_PREPRINT.md",
-      "sha256": "17bf345cadd593d5c15f8fb2291094ec849dc922abcf5948617ba1b091896e04"
+      "sha256": "29b97bb6d5b04c42ba21b0efccc892d3b8ef3a14db7ad107352e152e7c5119df"
     },
     {
       "path": "repro/REPRO_PACK.md",
@@ -75,7 +75,7 @@
     },
     {
       "path": "repro/run_repro.sh",
-      "sha256": "78c75466631c46eed44528197ea497068f48574e5abf86f181e877252078182a"
+      "sha256": "57c5c046d667fdd7fce2f292d92803a1ccab9d99ee2f550968e1062e08abdd69"
     },
     {
       "path": "scripts/extract_constants.py",
@@ -102,7 +102,7 @@
       "sha256": "1e6d93e0dc1ad94fa60f5d28d82bf17e5dd1db8307960435a814b337540c5b5c"
     }
   ],
-  "generated_utc": "2026-05-10T05:20:58Z",
+  "generated_utc": "2026-07-02T16:12:47Z",
   "lane": "manifold_constrained",
   "runtime_certificate_path": "repro/certificate_runtime.json",
   "schema_version": "2026-03-05"

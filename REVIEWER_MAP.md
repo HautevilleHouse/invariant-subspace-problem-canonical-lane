@@ -41,4 +41,4 @@
     - `lane.active_lane != "manifold_constrained"`.
     - `all_pass != true`.
     - Any manifest hash mismatch under `repro/repro_manifest.json`.
-    - A verified counterexample to any EG theorem statement used in the paper.
+    - A certified counterexample to any EG theorem statement used in the paper.
